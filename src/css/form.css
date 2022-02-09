@@ -1,0 +1,15 @@
+.input {
+  border: 1px solid #ccc;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px 0px 0px 10px;
+  box-shadow: 7px 7px 15px #ccc;
+}
+
+.button {
+  width: 70px;
+  height: 30px;
+  border-radius: 0px 10px 10px 0px;
+  background-color: black;
+  color: white;
+}
